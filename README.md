@@ -6,4 +6,8 @@ Bash script that automatically scans ports using [go furious](https://github.com
 Example usage scan 192.168.1.23:
 ```
 
+## Setup
+
+./tcp_scan/setup.sh
+
 In collaboration with [@takito1812](https://twitter.com/takito1812).
